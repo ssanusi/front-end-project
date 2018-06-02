@@ -4,7 +4,7 @@ import EditeNote from './EditeNote/EditeNote';
 import MainContent from './MainContent/MainContent';
 import NoteList from './NoteList/NoteList';
 import NoteView from './NoteView/NoteView';
-import SideView from './SideView/SideView';
+import SideNav from './SideNav/SideNav';
 
 export {
     CreateNote,
