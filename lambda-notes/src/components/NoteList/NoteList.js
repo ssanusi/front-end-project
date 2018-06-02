@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import  './index.css';
-class MainContent extends Component {
+
+class NoteList extends Component {
     render() {
         return (
             <div>
-                This is Main Content
+                NOTE LIST COMPONENT
             </div>
         );
     }
 }
 
-export default MainContent;
+export default NoteList;

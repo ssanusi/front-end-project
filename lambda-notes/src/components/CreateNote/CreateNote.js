@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import  './index.css';
-class MainContent extends Component {
+
+class CreateNote extends Component {
     render() {
         return (
             <div>
-                This is Main Content
+                CREATE NOTE COMPONENT
             </div>
         );
     }
 }
 
-export default MainContent;
+export default CreateNote;

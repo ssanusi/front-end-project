@@ -6,7 +6,7 @@ import {
     MainContent,
     NoteList,
     NoteView,
-    SideView
+    SideNav
 } from './components';
 
 
@@ -15,6 +15,8 @@ class App extends Component {
     return (
       <div>
         APP HOMEPAGE
+        <SideNav />
+        <MainContent />
       </div>
     );
   }

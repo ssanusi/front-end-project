@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import  './index.css';
-class MainContent extends Component {
+
+class DeleteNote extends Component {
     render() {
         return (
             <div>
-                This is Main Content
+                DELETE NOTE COMPONENT
             </div>
         );
     }
 }
 
-export default MainContent;
+export default DeleteNote;

@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import  './index.css';
-class MainContent extends Component {
+
+class SideNav extends Component {
     render() {
         return (
             <div>
-                This is Main Content
+                THIS IS SIDE NAV
             </div>
         );
     }
 }
 
-export default MainContent;
+export default SideNav;
