@@ -13,7 +13,7 @@ export {
     MainContent,
     NoteList,
     NoteView,
-    SideView
+    SideNav
 }
 
 
