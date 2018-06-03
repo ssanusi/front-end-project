@@ -12,7 +12,7 @@ import {
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className ="app-Container">
         <SideNav />
         <MainContent />
       </div>

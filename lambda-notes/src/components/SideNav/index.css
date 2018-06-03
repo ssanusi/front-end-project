@@ -1,1 +1,7 @@
-
+.nav-container{
+    display: flex;
+    padding: 1rem;
+    width: 220px;
+    height: 100vh;
+    background: #d3d3d3;
+}
