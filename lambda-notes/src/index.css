@@ -2,9 +2,6 @@
 *{
   box-sizing: border-box;
 }
-
-
-
   body {
   margin: 0 auto;
   padding: 0;
@@ -13,7 +10,6 @@
 
 .app-Container{
   display: flex;
-  width: 900px;
+  justify-content: center;
   margin: 0 auto;
-  border: 1px solid black;
 }
