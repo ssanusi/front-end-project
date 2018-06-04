@@ -57,7 +57,7 @@ class EditeNote extends Component {
                         <h3>
                             Edit Note:
                         </h3>
-                </div>
+                    </div>
                 <div className="form_container">
                     <input type="text" value ={this.state.notesArray[0].title}/>
                     <textarea rows="30" value ={this.state.notesArray[0].body}></textarea>
